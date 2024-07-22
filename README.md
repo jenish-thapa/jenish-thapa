@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Hot Drops<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Frontend and Backend
+🔭 I’m currently working on Hot Drop<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Frontend and Backend
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-thapa) 
 # 💻 Tech Stack:
